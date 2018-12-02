@@ -63,7 +63,7 @@ a:hover {
                Header 
 *************************************/
 .header {
-	background: url("../images/header.jpg") center top no-repeat;
+	background: url("images/header.jpg") center top no-repeat;
 	background-size: cover; /* remplissage de tout l'espace */
 	min-height: 1000px;
 }
@@ -265,7 +265,7 @@ a:hover {
                Section 4 
 *************************************/
 .section_4 {
-	background: url("../images/section_4.jpg") center top no-repeat;
+	background: url("images/section_4.jpg") center top no-repeat;
 	background-size: cover;
 	min-height: 660px;
 }
